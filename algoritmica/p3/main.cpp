@@ -2,6 +2,7 @@
  * @file main.cpp
  * @author Sergio Luna
  * @brief Programa principal para el problema del cambio y de la mochila
+ *     (versión voraz)
  * @version 0.1
  * @date 2023-10-31
  * 
